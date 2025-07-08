@@ -70,7 +70,7 @@ Some technologies I've been working with:
 ### Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/rdurancs](linkedin.com/in/rdurancs)
-* **Portfolio/Website:** [In the works](https://www.your-website.com)
+* **Portfolio/Website:** [In the works]([https://www.your-website.com](https://rduran03.github.io/professional-site/))
 * **Email:** [richduran13@gmail.com](mailto:richduran13@gmail.com)
 <!--
 **rduran03/rduran03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
